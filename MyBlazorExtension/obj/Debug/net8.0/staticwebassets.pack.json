@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\DevKonnect\\BlazorExtensionExample\\MyBlazorExtension\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\DevKonnect\\BlazorExtensionExample\\MyBlazorExtension\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MyBlazorExtension.styles.css",
+      "PackagePath": "staticwebassets\\MyBlazorExtension.styles.css"
+    },
+    {
+      "Id": "C:\\DevKonnect\\BlazorExtensionExample\\MyBlazorExtension\\wwwroot\\BackgroundWorker.js",
+      "PackagePath": "staticwebassets\\BackgroundWorker.js"
+    },
+    {
+      "Id": "C:\\DevKonnect\\BlazorExtensionExample\\MyBlazorExtension\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\DevKonnect\\BlazorExtensionExample\\MyBlazorExtension\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\DevKonnect\\BlazorExtensionExample\\MyBlazorExtension\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\DevKonnect\\BlazorExtensionExample\\MyBlazorExtension\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\DevKonnect\\BlazorExtensionExample\\MyBlazorExtension\\wwwroot\\manifest.json",
+      "PackagePath": "staticwebassets\\manifest.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MyBlazorExtension.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MyBlazorExtension.props",
+      "PackagePath": "build\\MyBlazorExtension.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MyBlazorExtension.props",
+      "PackagePath": "buildMultiTargeting\\MyBlazorExtension.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MyBlazorExtension.props",
+      "PackagePath": "buildTransitive\\MyBlazorExtension.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
